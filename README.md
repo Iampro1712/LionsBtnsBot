@@ -1,2 +1,8 @@
-# LionsBtnsBot
-Bot that can create buttons that is used to increase the subscriber channel.
+# LionsButtonsBot
+Administrador y creador de la botonera Lions
+
+## Si van a ocupar el codigo, favor poner creditos @MasterBinn3r (Telegram)
+
+# SET UP
+
+## Tiene solo que poner su **API ID**, **API HASH**, **BOT TOKEN** en el archivo **config.py** 
